@@ -1,8 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import logo from '../assets/Images/AJIKELOGO-removebg-preview.png'
-import mainVideo from '../assets/Walking Girl.mp4'
-import mainImage from '../assets/Images/one.jpg'
 import mainImage2 from '../assets/Images/th.jpg'
 import { motion   } from 'framer-motion'
 const textVariant = {
