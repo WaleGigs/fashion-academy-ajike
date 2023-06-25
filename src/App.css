@@ -1,0 +1,7 @@
+
+.service{
+  font-size: 3rem;
+font-weight: 600;
+color: #ee6e6e;
+font-family: var(--subtitle-font-name);
+}
